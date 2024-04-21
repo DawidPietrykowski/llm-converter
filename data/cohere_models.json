@@ -1,0 +1,38 @@
+[
+  {
+  "created": 1714485961,
+  "id": "command",
+  "object": "model",
+  "owned_by": "cohere"
+  },
+  {
+  "created": 1714485961,
+  "id": "command-light",
+  "object": "model",
+  "owned_by": "cohere"
+  },
+  {
+  "created": 1714485961,
+  "id": "command-light-nightly",
+  "object": "model",
+  "owned_by": "cohere"
+  },
+  {
+  "created": 1714485961,
+  "id": "command-nightly",
+  "object": "model",
+  "owned_by": "cohere"
+  },
+  {
+  "created": 1714485961,
+  "id": "command-r",
+  "object": "model",
+  "owned_by": "cohere"
+  },
+  {
+  "created": 1714485961,
+  "id": "command-r-plus",
+  "object": "model",
+  "owned_by": "cohere"
+  }
+]

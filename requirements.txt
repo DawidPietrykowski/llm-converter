@@ -1,0 +1,9 @@
+cohere~=5.3.4
+requests~=2.31.0
+openai~=1.25.0
+mistralai~=0.1.8
+anthropic~=0.25.7
+Flask~=3.0.3
+pytest~=8.2.0
+waitress~=3.0.0
+python-dotenv~=1.0.1

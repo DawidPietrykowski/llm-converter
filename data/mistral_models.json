@@ -1,0 +1,98 @@
+[
+  {
+  "created": 1714485961,
+  "id": "open-mistral-7b",
+  "object": "model",
+  "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-tiny-2312",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-tiny",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "open-mixtral-8x7b",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "open-mixtral-8x22b",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "open-mixtral-8x22b-2404",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-small-2312",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-small",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-small-2402",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-small-latest",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-medium-latest",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-medium-2312",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-medium",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-large-latest",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-large-2402",
+    "object": "model",
+    "owned_by": "mistralai"
+  },
+  {
+    "created": 1714485961,
+    "id": "mistral-embed",
+    "object": "model",
+    "owned_by": "mistralai"
+  }
+]

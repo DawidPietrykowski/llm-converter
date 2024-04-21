@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "llm-converter"
+version = "0.1.0"
+description = "Proxy for translating OpenAI completion requests with optional function calling to Anthropic, Mistral or Cohere backends"
+authors = ["Dawid Pietrykowski <contact@dawidpietrykowski.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.2.0"
+mistralai = "^0.1.8"
+cohere = "^5.3.4"
+openai = "^1.25.0"
+anthropic = "^0.25.7"
+Flask = "^3.0.3"
+waitress = "^3.0.0"
+python-dotenv = "^1.0.1"
+
+[tool.pytest.ini_options]
+pythonpath = "."
+testpaths = "tests"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,20 @@
+[
+  {
+  "created": 1686935002,
+  "id": "claude-3-opus-20240229",
+  "object": "model",
+  "owned_by": "anthropic"
+  },
+  {
+  "created": 1686935002,
+  "id": "claude-3-sonnet-20240229",
+  "object": "model",
+  "owned_by": "anthropic"
+  },
+  {
+  "created": 1686935002,
+  "id": "claude-3-haiku-20240307",
+  "object": "model",
+  "owned_by": "anthropic"
+  }
+]
